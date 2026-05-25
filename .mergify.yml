@@ -1,3 +1,6 @@
+merge_protections_settings:
+  reporting_method: check-runs
+
 pull_request_rules:
 
   - name: Auto-update with merge if appropriately labeled
