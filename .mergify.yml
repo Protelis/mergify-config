@@ -52,4 +52,4 @@ pull_request_rules:
       - -conflict
     actions:
       rebase:
-        bot_account: danysk
+        bot_account: pianinator
